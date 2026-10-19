@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 9
+      },
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apocalypse_addon:bandage"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apocalypse_addon:med_kit"
+        }
+      ]
+    }
+  ]
+}
